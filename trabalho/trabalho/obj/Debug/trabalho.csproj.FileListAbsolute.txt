@@ -1,0 +1,17 @@
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\trabalho.exe.config
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.csprojResolveAssemblyReference.cache
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\MainWindow.baml
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\MainWindow.g.cs
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\App.g.cs
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho_MarkupCompile.cache
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.g.resources
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.Properties.Resources.resources
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.csproj.GenerateResource.Cache
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\trabalho.exe
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\trabalho.pdb
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\EntityFramework.dll
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\EntityFramework.xml
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.exe
+c:\users\alunos\documents\visual studio 2013\Projects\trabalho\trabalho\obj\Debug\trabalho.pdb
